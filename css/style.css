@@ -198,7 +198,7 @@ h4, .h4 {
 }
 
 .header_area .navbar .nav .nav-item:hover .nav-link, .header_area .navbar .nav .nav-item.active .nav-link {
-    color: #2f2d4e;
+    color: #89898a;
     opacity: 1
 }
 
@@ -316,7 +316,8 @@ h4, .h4 {
 }
 
 .header_area.navbar_fixed .main_menu .navbar {
-    background: linear-gradient(#7676ff, #a669cb);
+    /* background: linear-gradient(#7676ff, #a669cb); */
+    background-color: #fff;
 }
 
 .header_area.navbar_fixed .main_menu .navbar .nav .nav-item .nav-link {
@@ -324,7 +325,7 @@ h4, .h4 {
 }
 
 .header_area.navbar_fixed .main_menu .navbar .nav .nav-item:hover .nav-link, .header_area.navbar_fixed .main_menu .navbar .nav .nav-item.active .nav-link {
-    color: #fff
+    color: #89898a;
 }
 
 @media (min-width: 992px) {

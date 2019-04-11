@@ -2872,7 +2872,7 @@ button.button {
     flex-direction: column;
 }
 .carousel-inner {
-    height: 400px;
+    height: 500px;
 }
 
 @media (max-width: 992px) {
